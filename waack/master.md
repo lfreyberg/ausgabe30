@@ -28,7 +28,7 @@ und in New Orleans sein ausmachen.
 > *Elysian Fields, Erato, etouffe, Euterpe, Ezekiel*
 >
 > *Father John's cough syrup, filé, first born, first born done died,
-> fleur de lys, flood, front porch, "fur true"?*
+> fleur de lys, flood, front porch, "fur true?"*
 
 Die Bibliografie dokumentiert dabei, ohne Dinge zu referenzieren, die
 man in Bibliotheken findet. Kein Stück Papier kann "I like coffee; I
