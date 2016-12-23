@@ -56,7 +56,7 @@ bleiben, sondern auch eine Referenz auf unsere eigene Bibliografie,
 unser "morning, mosquitos, mourning", unsere Klänge, Namen, Bilder und
 Wörter, die weitergereicht werden, um ein Leben zu ordnen, von A bis Z.
 
-> *"a girl who looks like her father is born for luck"*
+> *a girl who looks like her father is born for luck*
 
 [^1]: Foster, Tonya M. (2002) "New Orleans Bibliography" aus "Callaloo",
 Volume 25, Number 1, Winter 2002. <https://muse.jhu.edu/article/6713>
