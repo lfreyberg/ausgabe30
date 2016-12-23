@@ -144,7 +144,7 @@ Access-Kultur gilt. (vgl. Herb 2015, S. 10)
 Der Aufbau ist logisch. Es stört lediglich etwas, dass die detaillierte
 Fragestellung erst im dritten Teil und damit sehr nah am Schluss nach
 zwei Dritteln Text erläutert wird (ohne dass ein Gegenvorschlag nahe
-läge, denn was man speziell an der Soziologie untersuchen könnte ergibt
+läge, denn was man speziell an der Soziologie untersuchen könnte, ergibt
 sich nach und nach aus den Begriffsklärungen (A) und dem
 fachübergreifenden Überblick (C) ). Die Prüfung der vier Hypothesen
 daraufhin, ob sie "bestätigt" werden können, erscheint verzichtbar. Sie
