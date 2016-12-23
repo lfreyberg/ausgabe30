@@ -59,7 +59,7 @@ zu wissenschaftlichen Informationen" (Herb 2015, S. 12) definiert Herb
 fünf Untersuchungsdimensionen, die für ihn die "Bausteine der "*Offenen
 Wissenschaft"* ausmachen: 1. *"Open Access zu wissenschaftlichen
 Publikationen",* 2. "*Open Access zu Forschungsdaten"*, 3. "*Open
-Review"*, 4. "*Open Metrics*" und schließlich 5. "*Open Access zu
+Review*", 4. "*Open Metrics*" und schließlich 5. "*Open Access zu
 wissenschaftlicher Software."* (ebd.)
 
 Zusammengenommen ist Open Science damit ein "Prinzip \[...\], das alle
