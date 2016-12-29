@@ -139,7 +139,7 @@ wirkt? David Berry notierte 2014 als Gegenwartsbeschreibung:
 > widespread wireless networking technologies, so too the term ‘digital’
 > perhaps assumes a world of the past." (Berry, 2014)
 
-Für uns in diesem Rahmen Agierende bedeutet es: *die digitale Revolution
+Für uns in diesem Rahmen Agierende bedeutet es: *Die digitale Revolution
 ist vorbei*. Willkommen zu den Mühen des Alltags. Auch das ist heilsam,
 nicht zuletzt für die sich selbst erklärenden Digital Humanists, die
 verstehen müssen, dass sie dann, wenn sie ihre Wissenschaftspraxis auf
